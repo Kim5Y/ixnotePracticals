@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1750761365068,
+    "username": "username",
+    "password": "$2b$10$Cuixuq5OA5/DSQIa1EMK2uZbmRfGMvvIGK.PWdF8nD8kBeOJgVvBm"
+  },
+  {
+    "id": 1750757791406,
+    "username": "node js",
+    "password": "$2b$10$ivlas5AGvVWuHlllOeYXOuLdQK0Jz3QEUXt5E40vUmuJ.Hoq42Zj2"
+  },
+  {
+    "id": 1750757782656,
+    "username": "node",
+    "password": "$2b$10$PGWe3sXoaz5ydzS4itxXp.sEgKPQsvQk4p3wc6EQ8d3dyOh2gquKi"
+  },
+  {
+    "id": 1750754741410,
+    "username": "dan",
+    "password": "$2b$10$AnhdCXBBxCcZM6z7PYSomuZM1u10E8RpVWhdmYt6luh1H1XqxgWGq"
+  },
+  {
+    "id": 1750754604929,
+    "username": "pm",
+    "password": "$2b$10$G60klTlgkCQKhvWXGc2WzOGF67j1W2dM8UOMNUZW6LCpdY7y7Icum"
+  },
+  {
+    "id": 1750754529146,
+    "username": "pam",
+    "password": "$2b$10$ORdV5N7MpCyYA6wJjxye5uO229CDS/jD3RWwpokK33Sf/7z4Jx7C."
+  }
+]
